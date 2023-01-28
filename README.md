@@ -18,25 +18,29 @@
 I am always open to new opportunities and collaborations, so feel free to reach out to me if you have any interesting projects or ideas. Thank you for visiting my GitHub profile and I hope you enjoy exploring my work!
 
 
+<hr></hr>
 
-# My GoTos
+## 🔥My GoTo's
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-line.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
 </div>
+<hr></hr>
 
-# stats
+## 📊Stats
 
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=VedantMnkr&theme=tokyonight_duo&hide_border=true)](https://git.io/streak-stats)
   
+ <hr></hr>
  
-### Language usage
+## ⌨Language usage
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VedantMnkr&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<hr></hr>
 
-# You can also find me on :
+### 🔗You can also find me on :
 <div>    
 <div id="badges">
   <a href="https://www.linkedin.com/in/vedant-mankar-36193324b">
