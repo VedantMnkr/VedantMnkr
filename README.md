@@ -28,15 +28,6 @@ I am always open to new opportunities and collaborations, so feel free to reach 
   <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
 </div>
 
-# You can also find me on :
-<div>    
-<div id="badges">
-  <a href="your-linkedin-URL">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
-  </div>
-
 # stats
 
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=VedantMnkr&theme=tokyonight_duo&hide_border=true)](https://git.io/streak-stats)
@@ -46,6 +37,14 @@ I am always open to new opportunities and collaborations, so feel free to reach 
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VedantMnkr&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+# You can also find me on :
+<div>    
+<div id="badges">
+  <a href="your-linkedin-URL">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
+  </div>
   
 Cheers!
 [Vedant Mankar]
