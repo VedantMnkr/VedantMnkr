@@ -14,8 +14,7 @@
 - 👀 I’m interested in ... Programming, AI and games
 - 🌱 I’m currently learning ...python and c++
 - 💞️ I’m looking to collaborate on ... beginner AI based projects
-- 📫 How to reach me ... through github only</b>
-
+- 
 I am always open to new opportunities and collaborations, so feel free to reach out to me if you have any interesting projects or ideas. Thank you for visiting my GitHub profile and I hope you enjoy exploring my work!
 
 
@@ -43,11 +42,18 @@ I am always open to new opportunities and collaborations, so feel free to reach 
   <a href="https://www.linkedin.com/in/vedant-mankar-36193324b">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=vedmankar40@gmail.com">
+    <img src="https://img.shields.io/badge/mail-red?style=for-the-badge&logo=google&logoColor=white" alt="Gmail Badge"/>
+  </a>
 </div>
   </div>
-  
-Cheers!
-[Vedant Mankar]
+
+<div>
+  <hr></hr>
+<br>Thanks for visiting! Visit Again!</br>
+<i>Cheers!
+~Vedant Mankar<i>
+  </div>
 
 <!---
 VedantMnkr/VedantMnkr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
