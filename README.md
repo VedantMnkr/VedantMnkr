@@ -14,7 +14,7 @@
 - 👀 I’m interested in ... Programming, AI and games
 - 🌱 I’m currently learning ...python and c++
 - 💞️ I’m looking to collaborate on ... beginner AI based projects
-- 
+
 I am always open to new opportunities and collaborations, so feel free to reach out to me if you have any interesting projects or ideas. Thank you for visiting my GitHub profile and I hope you enjoy exploring my work!
 
 
