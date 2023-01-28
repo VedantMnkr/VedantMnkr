@@ -40,7 +40,7 @@ I am always open to new opportunities and collaborations, so feel free to reach 
 # You can also find me on :
 <div>    
 <div id="badges">
-  <a href="your-linkedin-URL">
+  <a href="https://www.linkedin.com/in/vedant-mankar-36193324b">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
