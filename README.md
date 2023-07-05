@@ -1,7 +1,7 @@
 <div id="header" align="center">
 <img src ="https://user-images.githubusercontent.com/82722096/215249970-6fd8b5a3-2b20-41c1-baab-1e525fdb9bde.png" height=200 />
 
-  
+
 <div id="badges">
 <a href="https://github.com/VedantMnkr"> 
 <img src="https://img.shields.io/badge/VedantMnkr-grey?style=for-the-badge&logo=github&logoColor=white" alt="Github Badge"/>
